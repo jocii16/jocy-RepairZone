@@ -1,4 +1,4 @@
-# Vehicle fix point(zone) with ox_lib
+# Vehicle fix zone(zone) with ox_lib
 
 - [Support](https://discord.gg/r6KGT3fekE) 🪒
 - [Forum](https://forum.cfx.re/u/jocyhu) 🐌
