@@ -3,4 +3,3 @@
 - [Support](https://discord.gg/r6KGT3fekE) 🪒
 - [Forum](https://forum.cfx.re/u/jocyhu) 🐌
 - [Tebex](https://jocy5m.tebex.io/) 💲
-- [Donate](https://www.paypal.com/paypalme/JocYNITROs) 🧸❤
